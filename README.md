@@ -6,4 +6,4 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br>
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=python&logoColor=white"> 
-  
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=python&logoColor=white"> 
